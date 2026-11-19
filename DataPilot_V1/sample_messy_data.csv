@@ -1,0 +1,8 @@
+order_id,customer,region,date,amount,status
+DP-001,"  Nile Retail  ",Cairo,01/08/2026,"1,250.00",Paid
+DP-002,Atlas Trading,Alexandria,01/09/2026,"EGP 2,800",Paid
+DP-003,Urban Mart ,Giza,01/10/2026,990,Pending
+DP-002,Atlas Trading,Alexandria,01/09/2026,"EGP 2,800",Paid
+DP-004,Cairo Direct,Cairo,01/12/2026,,Paid
+DP-005,BlueLine Services,Mansoura,01/15/2026,"1,750.50",
+DP-006,Prime Supplies,Giza,01/18/2026,(420.00),Refund
